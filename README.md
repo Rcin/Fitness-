@@ -3,4 +3,7 @@ Fitness+ is a multifunctional fitness program done by Processing and Arduino tha
 
 This is the final project for Cindy Hu and Yimin Wang's Interaction Lab course as well as Cindy Hu's Expressing Data course.
 
+To have this code work on your computer, you will also need to download the data folder here:
+https://drive.google.com/folderview?id=0B12xicJfd3tYUGdnTm5Ga2JESGc&usp=sharing
+
 Please contact cindyhu@nyu.edu if there is any problem. 
